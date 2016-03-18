@@ -6,11 +6,13 @@
       "salary": [
         {
           "idPrac": "01",
-          "zarobek": "3000"
+          "zarobek": "3000",
+          "kierownik": "false"
         },
         {
           "idPrac": "02",
-          "zarobek": "11000"
+          "zarobek": "11000",
+          "kierownik": "true"
         }
       ]
     },
@@ -20,7 +22,8 @@
       "salary": [
         {
           "idPrac": "02",
-          "zarobek": "4000"
+          "zarobek": "4000",
+          "kierownik": "false"
         }
       ]
     },
@@ -30,7 +33,8 @@
       "salary": [
         {
           "idPrac": "03",
-          "zarobek": "5000"
+          "zarobek": "5000",
+          "kierownik": "true"
         }
       ]
     }
