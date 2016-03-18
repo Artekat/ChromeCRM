@@ -1,0 +1,38 @@
+{
+  "Company": [
+    {
+      "id": "01",
+      "name": "Pierwsza",
+      "salary": [
+        {
+          "idPrac": "01",
+          "zarobek": "3000"
+        },
+        {
+          "idPrac": "02",
+          "zarobek": "11000"
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "name": "Druga",
+      "salary": [
+        {
+          "idPrac": "02",
+          "zarobek": "4000"
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "name": "Trzecia",
+      "salary": [
+        {
+          "idPrac": "03",
+          "zarobek": "5000"
+        }
+      ]
+    }
+  ]
+}
